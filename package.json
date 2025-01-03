@@ -1,0 +1,21 @@
+{
+  "name": "misterioso-theme",
+  "displayName": "misterioso-theme",
+  "description": "This is based on misterioso emacs theme",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.96.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "misterioso",
+        "uiTheme": "vs-dark",
+        "path": "./themes/misterioso-color-theme.json"
+      }
+    ]
+  }
+}
