@@ -3,6 +3,7 @@
   "displayName": "misterioso dark theme",
   "description": "This is based on misterioso emacs theme",
   "version": "0.0.1",
+  "publisher": "rkcy",
   "repository": {
     "type": "git",
     "url": "https://github.com/rkcy/misterioso-theme"
