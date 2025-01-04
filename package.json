@@ -1,8 +1,17 @@
 {
   "name": "misterioso-theme",
-  "displayName": "misterioso-theme",
+  "displayName": "misterioso dark theme",
   "description": "This is based on misterioso emacs theme",
   "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rkcy/misterioso-theme"
+  },
+  "keywords": [
+      "theme",
+      "dark theme",
+      "misterioso"
+  ],
   "engines": {
     "vscode": "^1.96.0"
   },
