@@ -2,7 +2,7 @@
   "name": "misterioso-theme",
   "displayName": "misterioso dark theme",
   "description": "This is based on misterioso emacs theme",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "publisher": "rkcy",
   "repository": {
     "type": "git",
